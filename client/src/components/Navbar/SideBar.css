@@ -1,0 +1,6 @@
+.icon-div {
+	@apply flex items-center justify-center flex-col cursor-pointer hover:text-white transition duration-300;
+}
+.icon-div2 {
+	@apply w-full py-1 px-1  rounded-l-xl;
+}
